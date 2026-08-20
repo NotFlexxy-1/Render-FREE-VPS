@@ -1,4 +1,4 @@
-# HyperVM Debian 13 Render Console
+# Made by hyperNET. Debian 13 Render Console
 
 This project runs a Debian 13 container on Render and exposes an authenticated browser terminal backed by a real PTY and `/bin/bash`.
 
